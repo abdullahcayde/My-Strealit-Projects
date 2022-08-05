@@ -87,6 +87,7 @@ with st.container():
             - I am on a new project because of that i have to learn streamlit.
             - I have to learn joblib.
             - I have to learn lightgm.
+            - I should learn web scrabbing.
             ''')
         st.write('[Learn more>](https://github.com/abdullahcayde)')
 
